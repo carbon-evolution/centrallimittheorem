@@ -1,0 +1,2 @@
+# centrallimittheorem
+central limit theorem
