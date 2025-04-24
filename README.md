@@ -38,6 +38,8 @@ python centrallimittheorem.py
 3. It calculates the mean of each sample
 4. It plots the distribution of these sample means, which demonstrates the Central Limit Theorem
 
+![image](https://github.com/user-attachments/assets/19147be4-afa5-45ad-a563-8ee0697fdb22)
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
